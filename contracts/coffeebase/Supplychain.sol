@@ -15,7 +15,7 @@ contract SupplyChain is
     ConsumerRole
 {
     // Define 'owner'
-    address ownable;
+    address owner;
     // Define a variable called 'upc' for Universal Product Code (UPC)
     uint256 upc;
 
