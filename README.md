@@ -11,6 +11,8 @@ The DApp User Interface when running should look like...
 ![Screenshot 2022-03-11 at 2 39 52 PM](https://user-images.githubusercontent.com/98121796/157946956-b4c14885-e586-46f3-9795-a5f986275b24.png)
 
 <b>UML</b>
+
+
 ![Activity Diagram](https://user-images.githubusercontent.com/98121796/157948179-51e72836-11c2-4601-b920-aaf554b94e38.png)
 ![Data Modeling](https://user-images.githubusercontent.com/98121796/157948180-b6fbb38d-7eb5-4d6f-a48e-aa7aa87fa0c3.png)
 ![Sequence Diagram](https://user-images.githubusercontent.com/98121796/157948181-1eeb5d9e-51dc-4288-84af-294564dd27a4.png)
